@@ -14,7 +14,7 @@
 | МИС–ЛИС | учебная цифровая лаборатория | [guvanch.ru/cases/mis.html](https://guvanch.ru/cases/mis.html) |
 | Расписание | PWA и Telegram-бот для колледжа | [guvanch.ru/cases/schedule.html](https://guvanch.ru/cases/schedule.html) |
 | Цифровая клиника | 23 медицинских документа, проверка и аудит | [guvanch.ru/cases/clinic.html](https://guvanch.ru/cases/clinic.html) |
-| Seamless Banking | бесшовный переход веб → мобильное приложение | [guvanch.ru/cases/web.html](https://guvanch.ru/cases/web.html) |
+| Seamless Banking | бесшовный переход веб → мобильное приложение | [guvanch.ru/#projects](https://guvanch.ru/#projects) |
 | Тренажёры | учебные задания с проверкой | [guvanch.ru/cases/trainers.html](https://guvanch.ru/cases/trainers.html) |
 
 ## Стек
